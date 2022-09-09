@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 'use strict';
 
 const formatNums = (nums) => nums.map(Number);
